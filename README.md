@@ -4,6 +4,9 @@ A new Flutter project.
 
 ## Getting Started
 
+Flutter Version `v3.24.1` </br>
+Dart Version `v3.94.0`
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
